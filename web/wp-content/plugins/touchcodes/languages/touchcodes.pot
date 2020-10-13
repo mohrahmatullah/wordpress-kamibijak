@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-17 07:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: touchcodes.php:88
+msgid "Message from "
+msgstr ""
+
+#: touchcodes.php:101
+msgid "Invalid capcha. Try again."
+msgstr ""
+
+#: touchcodes.php:134
+msgid "Mail sent."
+msgstr ""
+
+#: touchcodes.php:142
+msgid "Error. Mail not sent."
+msgstr ""
+
+#: touchcodes.php:151
+msgid "Invalid email adress"
+msgstr ""
+
+#: classes/ts-custom-post.php:36 classes/ts-custom-post.php:37
+msgid "Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:38 classes/ts-custom-post.php:121
+#: classes/ts-custom-post.php:204
+msgid "Add New"
+msgstr ""
+
+#: classes/ts-custom-post.php:39
+msgid "Add New Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:40 classes/ts-custom-post.php:75
+msgid "Edit Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:41
+msgid "New Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:42 classes/ts-custom-post.php:72
+msgid "All Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:43
+msgid "View Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:44 classes/ts-custom-post.php:70
+msgid "Search Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:45
+msgid "No recipes found"
+msgstr ""
+
+#: classes/ts-custom-post.php:46
+msgid "No recipes found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:48 classes/ts-custom-post.php:69
+msgid "Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:68
+msgid "Recipe categories"
+msgstr ""
+
+#: classes/ts-custom-post.php:71
+msgid "Popular Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:73
+msgid "Parent Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:74
+msgid "Parent Recipes:"
+msgstr ""
+
+#: classes/ts-custom-post.php:76
+msgid "Update Recipe"
+msgstr ""
+
+#: classes/ts-custom-post.php:77
+msgid "Add New Recipes"
+msgstr ""
+
+#: classes/ts-custom-post.php:78
+msgid "New Recipe Name"
+msgstr ""
+
+#: classes/ts-custom-post.php:96
+#, php-format
+msgid "Recipe updated. <a href=\"%s\">View recipe</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:97 classes/ts-custom-post.php:180
+#: classes/ts-custom-post.php:263 classes/ts-custom-post.php:348
+#: classes/ts-custom-post.php:403 classes/ts-custom-post.php:474
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/ts-custom-post.php:98 classes/ts-custom-post.php:181
+#: classes/ts-custom-post.php:264 classes/ts-custom-post.php:349
+#: classes/ts-custom-post.php:404 classes/ts-custom-post.php:475
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/ts-custom-post.php:99
+msgid "Recipe updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:101
+#, php-format
+msgid "Recipe restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:102
+#, php-format
+msgid "Recipe published. <a href=\"%s\">View recipe</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:103
+msgid "Recipe saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:104
+#, php-format
+msgid "Recipe submitted. <a target=\"_blank\" href=\"%s\">Preview recipe</a>"
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#. Publish box date format, see http://php.net/date
+#. Publish box date format, see http://php.net/date
+#. Publish box date format, see http://php.net/date
+#. Publish box date format, see http://php.net/date
+#. Publish box date format, see http://php.net/date
+#: classes/ts-custom-post.php:107 classes/ts-custom-post.php:190
+#: classes/ts-custom-post.php:273 classes/ts-custom-post.php:358
+#: classes/ts-custom-post.php:413 classes/ts-custom-post.php:484
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/ts-custom-post.php:108
+#, php-format
+msgid ""
+"Recipe draft updated. <a target=\"_blank\" href=\"%s\">Preview recipe</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:119 classes/ts-custom-post.php:120
+msgid "Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:122
+msgid "Add New Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:123 classes/ts-custom-post.php:158
+msgid "Edit Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:124
+msgid "New Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:125 classes/ts-custom-post.php:155
+msgid "All Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:126
+msgid "View Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:127 classes/ts-custom-post.php:153
+msgid "Search Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:128
+msgid "No galleries found"
+msgstr ""
+
+#: classes/ts-custom-post.php:129
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:131 classes/ts-custom-post.php:152
+msgid "Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:151
+msgid "Gallery categories"
+msgstr ""
+
+#: classes/ts-custom-post.php:154
+msgid "Popular Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:156
+msgid "Parent Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:157
+msgid "Parent Galleries:"
+msgstr ""
+
+#: classes/ts-custom-post.php:159
+msgid "Update Gallery"
+msgstr ""
+
+#: classes/ts-custom-post.php:160
+msgid "Add New Galleries"
+msgstr ""
+
+#: classes/ts-custom-post.php:161
+msgid "New Gallery Name"
+msgstr ""
+
+#: classes/ts-custom-post.php:179
+#, php-format
+msgid "Gallery updated. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:182
+msgid "Gallery updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:184
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:185
+#, php-format
+msgid "Gallery published. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:186
+msgid "Gallery saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:187
+#, php-format
+msgid "Gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:191
+#, php-format
+msgid ""
+"Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:202 classes/ts-custom-post.php:214
+msgid "Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:203
+msgid "Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:205
+msgid "Add New Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:206 classes/ts-custom-post.php:241
+msgid "Edit Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:207
+msgid "New Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:208 classes/ts-custom-post.php:238
+msgid "All Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:209
+msgid "View Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:210 classes/ts-custom-post.php:236
+msgid "Search Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:211
+msgid "No events found"
+msgstr ""
+
+#: classes/ts-custom-post.php:212
+msgid "No events found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:234
+msgid "Event categories"
+msgstr ""
+
+#: classes/ts-custom-post.php:235
+msgid "Event category"
+msgstr ""
+
+#: classes/ts-custom-post.php:237
+msgid "Popular Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:239
+msgid "Parent Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:240
+msgid "Parent Events:"
+msgstr ""
+
+#: classes/ts-custom-post.php:242
+msgid "Update Event"
+msgstr ""
+
+#: classes/ts-custom-post.php:243
+msgid "Add New Events"
+msgstr ""
+
+#: classes/ts-custom-post.php:244
+msgid "New Event Name"
+msgstr ""
+
+#: classes/ts-custom-post.php:262
+#, php-format
+msgid "Event updated. <a href=\"%s\">View event</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:265
+msgid "Event updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:267
+#, php-format
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:268
+#, php-format
+msgid "Event published. <a href=\"%s\">View event</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:269
+msgid "Event saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:270
+#, php-format
+msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:274
+#, php-format
+msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:286
+msgid "Video categories"
+msgstr ""
+
+#: classes/ts-custom-post.php:287
+msgid "Video category"
+msgstr ""
+
+#: classes/ts-custom-post.php:288 classes/ts-custom-post.php:321
+msgid "Search Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:289
+msgid "Popular Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:290 classes/ts-custom-post.php:319
+msgid "All Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:291
+msgid "Parent Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:292
+msgid "Parent Videos:"
+msgstr ""
+
+#: classes/ts-custom-post.php:293
+msgid "Edit Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:294
+msgid "Update Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:295
+msgid "Add New Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:296
+msgid "New Videos Name"
+msgstr ""
+
+#: classes/ts-custom-post.php:313 classes/ts-custom-post.php:325
+msgid "Videos"
+msgstr ""
+
+#: classes/ts-custom-post.php:314
+msgid "Video"
+msgstr ""
+
+#: classes/ts-custom-post.php:315 classes/ts-custom-post.php:318
+msgid "New Video"
+msgstr ""
+
+#: classes/ts-custom-post.php:316
+msgid "Add New Video"
+msgstr ""
+
+#: classes/ts-custom-post.php:317
+msgid "Edit Video"
+msgstr ""
+
+#: classes/ts-custom-post.php:320
+msgid "View Video"
+msgstr ""
+
+#: classes/ts-custom-post.php:322
+msgid "No video found"
+msgstr ""
+
+#: classes/ts-custom-post.php:323
+msgid "No video found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:347
+#, php-format
+msgid "Information about video updated. <a href=\"%s\">View video</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:350
+msgid "Video updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:352
+#, php-format
+msgid "Videos restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:353
+#, php-format
+msgid "Video published. <a href=\"%s\">View video</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:354
+msgid "Video saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:355
+#, php-format
+msgid "Video submitted. <a target=\"_blank\" href=\"%s\">Preview Video</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:356
+#, php-format
+msgid ""
+"Video scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview video</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:359
+#, php-format
+msgid "Video draft updated. <a target=\"_blank\" href=\"%s\">Preview video</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:370
+msgid "Team members"
+msgstr ""
+
+#: classes/ts-custom-post.php:371
+msgid "Team member"
+msgstr ""
+
+#: classes/ts-custom-post.php:372 classes/ts-custom-post.php:375
+msgid "New Member"
+msgstr ""
+
+#: classes/ts-custom-post.php:373
+msgid "Add New Member"
+msgstr ""
+
+#: classes/ts-custom-post.php:374
+msgid "Edit Member"
+msgstr ""
+
+#: classes/ts-custom-post.php:376
+msgid "All Members"
+msgstr ""
+
+#: classes/ts-custom-post.php:377
+msgid "View Member"
+msgstr ""
+
+#: classes/ts-custom-post.php:378
+msgid "Search Members"
+msgstr ""
+
+#: classes/ts-custom-post.php:379
+msgid "No members found"
+msgstr ""
+
+#: classes/ts-custom-post.php:380
+msgid "No members found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:382
+msgid "Teams"
+msgstr ""
+
+#: classes/ts-custom-post.php:402
+#, php-format
+msgid "Information about team member updated. <a href=\"%s\">View member</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:405
+msgid "Member updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:407
+#, php-format
+msgid "Member restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:408
+#, php-format
+msgid "Member published. <a href=\"%s\">View member</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:409
+msgid "Member saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:410
+#, php-format
+msgid "Member submitted. <a target=\"_blank\" href=\"%s\">Preview member</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:411
+#, php-format
+msgid ""
+"Member scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview member</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:414
+#, php-format
+msgid ""
+"Member draft updated. <a target=\"_blank\" href=\"%s\">Preview member</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:428
+msgid "Team categories"
+msgstr ""
+
+#: classes/ts-custom-post.php:440 classes/ts-custom-post.php:441
+#: classes/ts-custom-post.php:452
+msgid "Portfolio"
+msgstr ""
+
+#: classes/ts-custom-post.php:442 classes/ts-custom-post.php:443
+msgid "Add New Item"
+msgstr ""
+
+#: classes/ts-custom-post.php:444
+msgid "Edit Item"
+msgstr ""
+
+#: classes/ts-custom-post.php:445
+msgid "New Item"
+msgstr ""
+
+#: classes/ts-custom-post.php:446
+msgid "All Items"
+msgstr ""
+
+#: classes/ts-custom-post.php:447
+msgid "View Item"
+msgstr ""
+
+#: classes/ts-custom-post.php:448
+msgid "Search items"
+msgstr ""
+
+#: classes/ts-custom-post.php:449
+msgid "No items found"
+msgstr ""
+
+#: classes/ts-custom-post.php:450
+msgid "No items found in Trash"
+msgstr ""
+
+#: classes/ts-custom-post.php:473
+#, php-format
+msgid "Portfolio Item updated. <a href=\"%s\">View Portfolio Item</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:476
+msgid "Portfolio Item updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/ts-custom-post.php:478
+#, php-format
+msgid "Slider restored to revision from %s"
+msgstr ""
+
+#: classes/ts-custom-post.php:479
+#, php-format
+msgid "Portfolio Item published. <a href=\"%s\">View Portfolio Item</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:480
+msgid "Portfolio Item saved."
+msgstr ""
+
+#: classes/ts-custom-post.php:481
+#, php-format
+msgid ""
+"Portfolio Item submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio "
+"Item</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:485
+#, php-format
+msgid ""
+"Portfolio Item draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Portfolio Item</a>"
+msgstr ""
+
+#: classes/ts-custom-post.php:499
+msgid "Portfolio categories"
+msgstr ""
+
+#: classes/ts-init-admin.php:49 classes/ts-init-admin.php:109
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/ts-init-admin.php:63
+msgid "Custom JavaScript code"
+msgstr ""
+
+#: classes/ts-init-admin.php:64
+msgid "Google analytics or any other scripts you have."
+msgstr ""
+
+#: classes/ts-init-admin.php:73
+msgid "Custom CSS code"
+msgstr ""
+
+#: classes/ts-init-admin.php:74
+msgid "Just add your styles without any additional tags."
+msgstr ""
+
+#: classes/ts-init-admin.php:120
+msgid "Insert here your custom CSS"
+msgstr ""
+
+#: classes/ts-layout-compilator.php:23
+msgid "Name"
+msgstr ""
+
+#: classes/ts-layout-compilator.php:30
+msgid "Email"
+msgstr ""
+
+#: classes/ts-layout-compilator.php:36
+msgid "Subject"
+msgstr ""
+
+#: classes/ts-layout-compilator.php:42
+msgid "Text"
+msgstr ""
+
+#: classes/ts-layout-compilator.php:88 classes/ts-layout-compilator.php:90
+msgid "Send"
+msgstr ""
+
+#. Name of the plugin
+msgid "TouchCodes"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds custom posts types and shortcodes."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://touchsize.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Touchsize"
+msgstr ""

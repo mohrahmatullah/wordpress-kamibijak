@@ -1,0 +1,27 @@
+.touchrate-container {
+	display: inline-block;
+
+	-webkit-transition: opacity .25s linear;
+	-o-transition: opacity .25s linear;
+	transition: opacity .25s linear;
+}
+.touchrate-container.is-loading {
+	opacity: 0.7;
+}
+ul.touchrate-stars {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+ul.touchrate-stars > li {
+	display: inline-block;
+	cursor: pointer;
+	color: inherit;
+}
+ul.touchrate-stars > li.red {
+	color: #FF0000;
+}
+.touchrate-average i {
+	font-style: normal;
+}
